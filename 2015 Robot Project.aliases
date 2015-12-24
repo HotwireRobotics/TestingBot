@@ -1,5 +1,9 @@
 [My Computer]
+<<<<<<< HEAD
 My Computer = "192.168.1.193"
+=======
+My Computer = "192.168.1.92"
+>>>>>>> origin/master
 
 [Target]
 Target = "roboRIO-1234.local"
